@@ -1,0 +1,35 @@
+body{
+    background-color: #3EB1CA;
+}
+.Classe{
+    padding: 100px;
+    background-color: #4C90A0;
+    margin: 20px;
+    border: 20px;
+    border-radius: 25px;
+    box-shadow: 2px 2px 2px black;
+
+}
+p{
+    text-align: center;
+    color: white;
+}
+.imagem{
+    text-align: center;
+    padding: 40px;
+    margin: 0px;
+}
+.oi{
+    text-align: center;
+    background-color: white;
+    border-radius: 25px;
+}
+h3{
+    text-align: center;
+}
+li{
+    color: white;
+}
+ul{
+    color: white;
+}
