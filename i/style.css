@@ -33,3 +33,11 @@ li{
 ul{
     color: white;
 }
+nav{
+    background-color: aquamarine;
+    border-radius: 50px;
+    padding: 0;
+
+    border-right: 0px;
+
+}
